@@ -1,0 +1,79 @@
+12.2182 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+12.2195 	INFO 	Loaded monitor calibration from ['2024_08_09 11:30']
+13.9627 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001993602E880>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001993602E820>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001993602E670>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x00000199363F37C0>, multiSample=False, name='window1', numSamples=2, pos=[560.0, 240.0], screen=0, size=array([800, 600]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+13.9627 	EXP 	window1: backgroundImage = ''
+13.9627 	EXP 	window1: backgroundFit = 'none'
+13.9629 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001993602E9A0>
+13.9631 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001993602E9A0>
+13.9740 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001993602E9A0>
+13.9745 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001993602E9A0>
+14.0310 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.0326 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.0337 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.0350 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.0362 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.0370 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.0381 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.0393 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.0401 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.0409 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.0420 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.0430 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.0440 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.0450 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.0460 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.0470 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.0481 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.0489 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.0497 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.0510 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.0518 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.0537 	DEBUG 	Uploading Texture Font fontname to graphics card
+14.0727 	DEBUG 	Upload of Texture Font fontname complete
+14.0743 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001993602E9A0>
+14.0744 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001993602E9A0>
+14.0750 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001993602E9A0>
+14.0756 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001993602E9A0>
+14.0802 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.0817 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.0830 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.0833 	DEBUG 	Uploading Texture Font fontname to graphics card
+14.1060 	DEBUG 	Upload of Texture Font fontname complete
+14.1142 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+14.1143 	EXP 	window1: recordFrameIntervals = False
+14.3507 	EXP 	window1: recordFrameIntervals = True
+14.5339 	EXP 	Screen (0) actual frame rate measured at 60.18Hz
+14.5340 	EXP 	window1: recordFrameIntervals = False
+14.5341 	EXP 	window1: mouseVisible = False
+14.5345 	EXP 	window1: mouseVisible = False
+14.5346 	EXP 	window1: mouseVisible = False
+14.5351 	EXP 	window1: mouseVisible = False
+14.5358 	EXP 	window1: mouseVisible = False
+14.5404 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.5417 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.5436 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.5453 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.5472 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.5494 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.5511 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.5529 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.5550 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.5569 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+14.5573 	DEBUG 	Uploading Texture Font fontname to graphics card
+14.5580 	DEBUG 	Upload of Texture Font fontname complete
+14.5599 	EXP 	window1: mouseVisible = False
+14.5601 	EXP 	window1: mouseVisible = False
+14.5610 	EXP 	window1: mouseVisible = False
+14.5616 	EXP 	window1: mouseVisible = False
+14.6062 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+17.1005 	INFO 	keyboard.Keyboard is using iohub backend.
+17.1005 	INFO 	keyboard.Keyboard is using iohub backend.
+17.1005 	EXP 	Adaptive_Staircase: status = STARTED
+17.1006 	EXP 	window1: mouseVisible = False
+17.1046 	EXP 	Created fixation = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='fixation', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.1, 0.1]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+17.1048 	EXP 	window1: mouseVisible = False
+17.1094 	EXP 	Created grating = GratingStim(__class__=<class 'psychopy.visual.grating.GratingStim'>, anchor='center', autoDraw=False, autoLog=True, blendmode='avg', color=array([0.5, 0.5, 0.5]), colorSpace='rgb', contrast=0.5, depth=-1.0, draggable=False, interpolate=True, mask='gauss', maskParams=None, name='grating', opacity=1.0, ori=1.0, phase=array([0., 0.]), pos=array([0., 0.]), rgbPedestal=array([0., 0., 0.]), sf=array([8., 8.]), size=array([0.3, 0.3]), tex='sin', texRes=128.0, units='height', win=Window(...))
+0.0582 	EXP 	window1: mouseVisible = True
+0.0601 	DEBUG 	Saving data for Adaptive_Staircase ExperimentHandler
+0.0607 	INFO 	saved data to D:\Prisha AU\MONSOON 2024\LAB IN PSYCH\Tutorials\Tutorial 3\data/032538_Adaptive_Staircase_2024-09-06_11h48.05.135.psydat
+0.0611 	INFO 	saved data to 'D:\\Prisha AU\\MONSOON 2024\\LAB IN PSYCH\\Tutorials\\Tutorial 3\\data/032538_Adaptive_Staircase_2024-09-06_11h48.05.135.csv'
