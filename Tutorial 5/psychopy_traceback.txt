@@ -1,0 +1,31 @@
+Traceback (most recent call last):
+  File "D:\Prisha AU\MONSOON 2024\PSYCHOPY\lib\site-packages\psychopy\app\builder\builder.py", line 778, in fileOpen
+    self.app.runner.addTask(fileName=self.filename)  # Add to Runner
+  File "D:\Prisha AU\MONSOON 2024\PSYCHOPY\lib\site-packages\psychopy\app\runner\runner.py", line 114, in addTask
+    self.panel.addTask(fileName=fileName, runMode=runMode)
+  File "D:\Prisha AU\MONSOON 2024\PSYCHOPY\lib\site-packages\psychopy\app\runner\runner.py", line 820, in addTask
+    self.setSelection(thisIndex)  # calls onSelectItem which updates other info
+  File "D:\Prisha AU\MONSOON 2024\PSYCHOPY\lib\site-packages\psychopy\app\runner\runner.py", line 875, in setSelection
+    self.onItemSelected(index)
+  File "D:\Prisha AU\MONSOON 2024\PSYCHOPY\lib\site-packages\psychopy\app\runner\runner.py", line 907, in onItemSelected
+    self.updateAlerts()
+  File "D:\Prisha AU\MONSOON 2024\PSYCHOPY\lib\site-packages\psychopy\app\runner\runner.py", line 934, in updateAlerts
+    self.currentExperiment.integrityCheck()
+  File "D:\Prisha AU\MONSOON 2024\PSYCHOPY\lib\site-packages\psychopy\experiment\_experiment.py", line 261, in integrityCheck
+    self.flow.integrityCheck()
+  File "D:\Prisha AU\MONSOON 2024\PSYCHOPY\lib\site-packages\psychopy\experiment\flow.py", line 156, in integrityCheck
+    entry.integrityCheck()
+  File "D:\Prisha AU\MONSOON 2024\PSYCHOPY\lib\site-packages\psychopy\experiment\routines\_base.py", line 500, in integrityCheck
+    entry.integrityCheck()
+  File "D:\Prisha AU\MONSOON 2024\PSYCHOPY\lib\site-packages\psychopy\experiment\components\_base.py", line 1540, in integrityCheck
+    win = alerttools.TestWin(self.exp)
+  File "D:\Prisha AU\MONSOON 2024\PSYCHOPY\lib\site-packages\psychopy\alerts\alerttools.py", line 24, in __init__
+    self.size = ast.literal_eval(winSize)
+  File "D:\Prisha AU\MONSOON 2024\PSYCHOPY\lib\ast.py", line 64, in literal_eval
+    node_or_string = parse(node_or_string.lstrip(" \t"), mode='eval')
+  File "D:\Prisha AU\MONSOON 2024\PSYCHOPY\lib\ast.py", line 50, in parse
+    return compile(source, filename, mode, flags,
+  File "<unknown>", line 1
+    800, 500]
+            ^
+SyntaxError: unmatched ']'
