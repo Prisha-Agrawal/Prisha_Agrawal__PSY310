@@ -1,0 +1,69 @@
+9.0989 	INFO 	Loaded monitor calibration from ['2024_08_09 11:30']
+9.8783 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002AAF2E678E0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002AAF2E67880>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002AAF2E676D0>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000002AAF2F3CF10>, multiSample=False, name='window1', numSamples=2, pos=[560.0, 290.0], screen=0, size=array([800, 500]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+9.8784 	EXP 	window1: backgroundImage = ''
+9.8785 	EXP 	window1: backgroundFit = 'none'
+9.8788 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000002AAF2E67A00>
+9.8791 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000002AAF2E67A00>
+9.8848 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000002AAF2E67A00>
+9.8855 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000002AAF2E67A00>
+10.0030 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000002AAF2E67A00>
+10.0032 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000002AAF2E67A00>
+10.0042 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000002AAF2E67A00>
+10.0052 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000002AAF2E67A00>
+10.0387 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+10.0387 	EXP 	window1: recordFrameIntervals = False
+10.3000 	EXP 	window1: recordFrameIntervals = True
+10.4834 	EXP 	Screen (0) actual frame rate measured at 59.96Hz
+10.4835 	EXP 	window1: recordFrameIntervals = False
+10.4836 	EXP 	window1: mouseVisible = True
+10.5647 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+13.7783 	INFO 	keyboard.Keyboard is using iohub backend.
+13.7785 	INFO 	keyboard.Keyboard is using iohub backend.
+13.9871 	EXP 	intentional_binding: status = STARTED
+13.9874 	EXP 	window1: mouseVisible = True
+13.9961 	EXP 	Created polygon = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='polygon', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.2, 0.2]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+13.9962 	EXP 	window1: mouseVisible = True
+13.9992 	EXP 	Created polygon_2 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([-1.    ,  0.0039, -1.    ]), fillColorSpace='rgb', fillRGB=array([-1.    ,  0.0039, -1.    ]), interpolate=True, lineColor=array([-1.    ,  0.0039, -1.    ]), lineColorSpace='rgb', lineRGB=array([-1.    ,  0.0039, -1.    ]), lineWidth=1.0, name='polygon_2', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.2, 0.2]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+14.4346 	EXP 	Sound sound_1 set volume 1.000
+14.4350 	EXP 	window1: mouseVisible = True
+14.6080 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0. , 0.2]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+14.6083 	EXP 	window1: mouseVisible = True
+14.6085 	EXP 	window1: mouseVisible = True
+14.6091 	EXP 	window1: mouseVisible = True
+14.6097 	EXP 	window1: mouseVisible = True
+14.6150 	EXP 	window1: mouseVisible = True
+14.6152 	EXP 	window1: mouseVisible = True
+14.6157 	EXP 	window1: mouseVisible = True
+14.6162 	EXP 	window1: mouseVisible = True
+14.6396 	EXP 	window1: mouseVisible = True
+14.6397 	EXP 	window1: mouseVisible = True
+14.6405 	EXP 	window1: mouseVisible = True
+14.6412 	EXP 	window1: mouseVisible = True
+14.6562 	EXP 	window1: mouseVisible = True
+14.6563 	EXP 	window1: mouseVisible = True
+14.6569 	EXP 	window1: mouseVisible = True
+14.6574 	EXP 	window1: mouseVisible = True
+0.0206 	EXP 	textbox: autoLog = True
+0.0281 	EXP 	Imported ib_conds.xlsx as conditions, 12 conditions, 3 params
+0.0408 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'delay': 0.7, 'freq': 1000, 'condition': 'exp', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.0555 	EXP 	polygon: autoDraw = True
+1.0073 	INFO 	Keyboard events cleared
+1.0065 	EXP 	polygon_2: autoDraw = True
+1.0567 	EXP 	polygon: autoDraw = False
+1.5552 	DATA 	Keypress: space
+1.5718 	EXP 	polygon: autoDraw = False
+1.5718 	EXP 	polygon_2: autoDraw = False
+2.2397 	EXP 	Sound sound_1 reached end of file
+2.2561 	EXP 	Sound sound_1 started
+2.5421 	EXP 	Sound sound_1 stopped
+2.5717 	EXP 	text: autoDraw = True
+2.5717 	EXP 	textbox: autoDraw = True
+3.5916 	DATA 	Keypress: num_8
+6.2961 	DATA 	Keypress: escape
+6.3927 	EXP 	intentional_binding: status = STOPPED
+6.4061 	EXP 	text: autoDraw = False
+6.4061 	EXP 	textbox: autoDraw = False
+6.4064 	EXP 	intentional_binding: status = STOPPED
+6.4419 	INFO 	saved data to 'D:\\Prisha AU\\MONSOON 2024\\PSY310 - LAB\\Tutorials\\Tutorial 8\\LabReport6\\data/590065_intentional_binding_2024-11-14_23h27.46.848.csv'
+6.4467 	INFO 	saved data to D:\Prisha AU\MONSOON 2024\PSY310 - LAB\Tutorials\Tutorial 8\LabReport6\data/590065_intentional_binding_2024-11-14_23h27.46.848.psydat
+6.5163 	EXP 	window1: mouseVisible = True
