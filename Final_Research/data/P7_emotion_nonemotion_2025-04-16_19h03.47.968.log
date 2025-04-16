@@ -1,0 +1,156 @@
+7.6312 	INFO 	Loaded monitor calibration from ['2024_08_09 11:30']
+7.6506 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+8.0700 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000217B6687280>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000217B6687220>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000217B6687070>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x00000217B67547F0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+8.0701 	EXP 	window1: backgroundImage = ''
+8.0701 	EXP 	window1: backgroundFit = 'none'
+8.0705 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x00000217B66873A0>
+8.0708 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x00000217B66873A0>
+8.0745 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x00000217B66873A0>
+8.0760 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x00000217B66873A0>
+8.1407 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x00000217B66873A0>
+8.1409 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x00000217B66873A0>
+8.1415 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x00000217B66873A0>
+8.1421 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x00000217B66873A0>
+8.1912 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+8.1913 	EXP 	window1: recordFrameIntervals = False
+8.3457 	EXP 	window1: recordFrameIntervals = True
+8.5296 	EXP 	Screen (0) actual frame rate measured at 60.04Hz
+8.5297 	EXP 	window1: recordFrameIntervals = False
+8.5299 	EXP 	window1: mouseVisible = False
+9.9183 	INFO 	keyboard.Keyboard is using iohub backend.
+9.9184 	INFO 	keyboard.Keyboard is using iohub backend.
+9.9184 	INFO 	keyboard.Keyboard is using iohub backend.
+9.9184 	INFO 	keyboard.Keyboard is using iohub backend.
+9.9185 	EXP 	emotion_nonemotion: status = STARTED
+9.9188 	EXP 	window1: mouseVisible = False
+9.9382 	EXP 	Created stimuli = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.06, italic=False, languageStyle='LTR', name='stimuli', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+9.9383 	EXP 	window1: mouseVisible = False
+9.9854 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+9.9854 	EXP 	window1: mouseVisible = False
+9.9861 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.06, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+0.0018 	DATA 	Mouse: Left button down, pos=(873,510)
+0.0034 	DATA 	Mouse:  Left button up, pos=(873,510)
+0.0078 	DATA 	Mouse: Left button down, pos=(873,510)
+0.0095 	DATA 	Mouse:  Left button up, pos=(873,510)
+0.0186 	EXP 	Imported conditions_EN.xlsx as conditions, 7 conditions, 4 params
+0.0190 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'S1': 'Grateful ', 'E_N': 'E', 'S2': 'Proud ', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.0312 	EXP 	stimuli: height = 0.06
+0.0312 	EXP 	stimuli: height = 0.06
+0.0312 	EXP 	stimuli: height = 0.06
+0.0312 	EXP 	stimuli: text = 'Grateful '
+0.0312 	EXP 	stimuli: autoDraw = True
+2.5284 	DATA 	Keypress: space
+2.5481 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'S1': 'Walk', 'E_N': 'N', 'S2': 'Table', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+2.5591 	EXP 	stimuli: autoDraw = False
+2.5591 	EXP 	stimuli: height = 0.06
+2.5591 	EXP 	stimuli: height = 0.06
+2.5591 	EXP 	stimuli: height = 0.06
+2.5591 	EXP 	stimuli: text = 'Walk'
+2.5591 	EXP 	stimuli: autoDraw = True
+3.7785 	DATA 	Keypress: space
+3.7934 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'S1': 'Hopeful', 'E_N': 'E', 'S2': 'Guilty', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+3.8085 	EXP 	stimuli: autoDraw = False
+3.8085 	EXP 	stimuli: height = 0.06
+3.8085 	EXP 	stimuli: height = 0.06
+3.8085 	EXP 	stimuli: height = 0.06
+3.8085 	EXP 	stimuli: text = 'Hopeful'
+3.8085 	EXP 	stimuli: autoDraw = True
+8.0605 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'S1': 'Bridge', 'E_N': 'N', 'S2': 'Spoon', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+8.0711 	DATA 	Keypress: space
+8.0749 	EXP 	stimuli: autoDraw = False
+8.0749 	EXP 	stimuli: height = 0.06
+8.0749 	EXP 	stimuli: height = 0.06
+8.0749 	EXP 	stimuli: height = 0.06
+8.0749 	EXP 	stimuli: text = 'Bridge'
+8.0749 	EXP 	stimuli: autoDraw = True
+9.7767 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'S1': 'Amused', 'E_N': 'E', 'S2': 'Happy ', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+9.7852 	DATA 	Keypress: space
+9.7935 	EXP 	stimuli: autoDraw = False
+9.7935 	EXP 	stimuli: height = 0.06
+9.7935 	EXP 	stimuli: height = 0.06
+9.7935 	EXP 	stimuli: height = 0.06
+9.7935 	EXP 	stimuli: text = 'Amused'
+9.7935 	EXP 	stimuli: autoDraw = True
+11.7766 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'S1': 'Speak', 'E_N': 'N', 'S2': 'Pencil', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+11.7849 	DATA 	Keypress: space
+11.7906 	EXP 	stimuli: autoDraw = False
+11.7906 	EXP 	stimuli: height = 0.06
+11.7906 	EXP 	stimuli: height = 0.06
+11.7906 	EXP 	stimuli: height = 0.06
+11.7906 	EXP 	stimuli: text = 'Speak'
+11.7906 	EXP 	stimuli: autoDraw = True
+14.7420 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'S1': 'Sad', 'E_N': 'E', 'S2': 'Love', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+14.7449 	DATA 	Keypress: space
+14.7579 	EXP 	stimuli: autoDraw = False
+14.7579 	EXP 	stimuli: height = 0.06
+14.7579 	EXP 	stimuli: height = 0.06
+14.7579 	EXP 	stimuli: height = 0.06
+14.7579 	EXP 	stimuli: text = 'Sad'
+14.7579 	EXP 	stimuli: autoDraw = True
+16.9959 	DATA 	Keypress: space
+17.0076 	INFO 	Keyboard events cleared
+17.0071 	EXP 	stimuli: autoDraw = False
+17.0071 	EXP 	text: autoDraw = True
+21.5683 	EXP 	Imported conditions_EN.xlsx as conditions, 7 conditions, 4 params
+21.5686 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'S1': 'Grateful ', 'E_N': 'E', 'S2': 'Proud ', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+21.5744 	DATA 	Keypress: space
+21.5805 	EXP 	text: autoDraw = False
+21.5805 	EXP 	text_2: height = 0.06
+21.5805 	EXP 	text_2: height = 0.06
+21.5805 	EXP 	text_2: height = 0.06
+21.5805 	EXP 	text_2: text = 'Proud '
+21.5805 	EXP 	text_2: autoDraw = True
+23.6412 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'S1': 'Walk', 'E_N': 'N', 'S2': 'Table', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+23.6467 	DATA 	Keypress: space
+23.6566 	EXP 	text_2: autoDraw = False
+23.6566 	EXP 	text_2: height = 0.06
+23.6566 	EXP 	text_2: height = 0.06
+23.6566 	EXP 	text_2: height = 0.06
+23.6566 	EXP 	text_2: text = 'Table'
+23.6566 	EXP 	text_2: autoDraw = True
+26.2248 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'S1': 'Hopeful', 'E_N': 'E', 'S2': 'Guilty', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+26.2317 	DATA 	Keypress: space
+26.2391 	EXP 	text_2: autoDraw = False
+26.2391 	EXP 	text_2: height = 0.06
+26.2391 	EXP 	text_2: height = 0.06
+26.2391 	EXP 	text_2: height = 0.06
+26.2391 	EXP 	text_2: text = 'Guilty'
+26.2391 	EXP 	text_2: autoDraw = True
+31.1079 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'S1': 'Bridge', 'E_N': 'N', 'S2': 'Spoon', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+31.1137 	DATA 	Keypress: space
+31.1216 	EXP 	text_2: autoDraw = False
+31.1216 	EXP 	text_2: height = 0.06
+31.1216 	EXP 	text_2: height = 0.06
+31.1216 	EXP 	text_2: height = 0.06
+31.1216 	EXP 	text_2: text = 'Spoon'
+31.1216 	EXP 	text_2: autoDraw = True
+32.6903 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'S1': 'Amused', 'E_N': 'E', 'S2': 'Happy ', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+32.6957 	DATA 	Keypress: space
+32.7049 	EXP 	text_2: autoDraw = False
+32.7049 	EXP 	text_2: height = 0.06
+32.7049 	EXP 	text_2: height = 0.06
+32.7049 	EXP 	text_2: height = 0.06
+32.7049 	EXP 	text_2: text = 'Happy '
+32.7049 	EXP 	text_2: autoDraw = True
+34.5901 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'S1': 'Speak', 'E_N': 'N', 'S2': 'Pencil', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+34.5945 	DATA 	Keypress: space
+34.6051 	EXP 	text_2: autoDraw = False
+34.6051 	EXP 	text_2: height = 0.06
+34.6051 	EXP 	text_2: height = 0.06
+34.6051 	EXP 	text_2: height = 0.06
+34.6051 	EXP 	text_2: text = 'Pencil'
+34.6051 	EXP 	text_2: autoDraw = True
+35.9734 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'S1': 'Sad', 'E_N': 'E', 'S2': 'Love', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+35.9803 	DATA 	Keypress: space
+35.9877 	EXP 	text_2: autoDraw = False
+35.9877 	EXP 	text_2: height = 0.06
+35.9877 	EXP 	text_2: height = 0.06
+35.9877 	EXP 	text_2: height = 0.06
+35.9877 	EXP 	text_2: text = 'Love'
+35.9877 	EXP 	text_2: autoDraw = True
+38.1752 	DATA 	Keypress: space
+38.1874 	EXP 	text_2: autoDraw = False
+38.1875 	EXP 	emotion_nonemotion: status = STOPPED
+38.1963 	INFO 	saved data to 'D:\\Prisha AU\\PSY416_Emotions\\data/P7_emotion_nonemotion_2025-04-16_19h03.47.968.csv'
+38.5343 	INFO 	saved data to D:\Prisha AU\PSY416_Emotions\data/P7_emotion_nonemotion_2025-04-16_19h03.47.968.psydat
+38.6276 	EXP 	window1: mouseVisible = True
